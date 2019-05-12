@@ -11,4 +11,4 @@ When creating this repository, the application is tested and compiled into Visua
 
 ## References
 
-Based on the (article with Habrhabr)[https://habr.com/post/172827/] from the user [@mephistopheies](https://habr.com/users/mephistopheies/)
+Based on the [article with Habrhabr](https://habr.com/post/172827/) from the user [@mephistopheies](https://habr.com/users/mephistopheies/)
